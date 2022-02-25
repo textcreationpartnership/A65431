@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Welchmens prave [sic] resolution in defence of her king, her Pritish [sic] Parliament, and her country against te [sic] malignant party / subscribed by Shon, ap William, ap Richard, ap Thomas, ap Meredith, ap Evans, ap Loyd, ap Price, ap Hugh, ap Rowland, ap Powel, ap Shinkin, ap Shones.</title>
+            <author>Shones, Shon ap.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65431</idno>
+            <idno type="STC">Wing W1334</idno>
+            <idno type="STC">ESTC R312</idno>
+            <idno type="EEBO-CITATION">12625567</idno>
+            <idno type="OCLC">ocm 12625567</idno>
+            <idno type="VID">64626</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64626)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E149, no 32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Welchmens prave [sic] resolution in defence of her king, her Pritish [sic] Parliament, and her country against te [sic] malignant party / subscribed by Shon, ap William, ap Richard, ap Thomas, ap Meredith, ap Evans, ap Loyd, ap Price, ap Hugh, ap Rowland, ap Powel, ap Shinkin, ap Shones.</title>
+                  <author>Shones, Shon ap.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Harrison,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>June 7, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64626:1"/>
+            <pb facs="tcp:64626:1" rendition="simple:additions"/>
+            <p>THE WELCH<g ref="char:EOLhyphen"/>MENS PRAVE RESOLUTION: IN DEFENCE OF Her KING, Her PRITISH Par<g ref="char:EOLhyphen"/>liament, and Her Country, againſt te malignant party.</p>
+            <p>Subſcribed by <hi>Shon, ap William, ap Ri<g ref="char:EOLhyphen"/>chard, ap Thomas, ap Meredith, ap E<g ref="char:EOLhyphen"/>vans, ap Loyd, ap Price, ap Hugh, ap Rowland, ap Powel, ap Shin<g ref="char:EOLhyphen"/>kin, ap Shones.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>J. Harriſon,</hi> June 7. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:64626:2"/>
+            <pb n="1" facs="tcp:64626:2"/>
+            <head>THE WELCHMENS RESOLUTION.</head>
+            <p>SInce her toe underſtand, tat te enemy toe ap<g ref="char:EOLhyphen"/>proach and treaten not only to cut her troat cowartly, put alſo to hinter te procetings of te Pritiſh Parliament, her tink it high time to look apout her. And tough her coms as fierce as a creat Lyon to her, and look as high as Pawls; yet if her Welch Plood pe once up, by Cods plutter a Nailes her will overlook her foe, like her Welch Mountains, and ſqueze her proud enemie in te name of Saint <hi>Taffey.</hi>
+            </p>
+            <p>Werefore ſince it vas ever regorded, and kanown, tat her Countrymen in aul her perecri<g ref="char:EOLhyphen"/>nations and ampulations, vas alwaies magnani<g ref="char:EOLhyphen"/>mous and couragious, and would never kill her ene<g ref="char:EOLhyphen"/>my, before her had calenged her, and given her no<g ref="char:EOLhyphen"/>tice tereof, and ſo by conſekence her became al<g ref="char:EOLhyphen"/>ways valiantly victorious, her toe terefore make kanown her Reſolution to te hole Urld.</p>
+            <pb n="2" facs="tcp:64626:3"/>
+            <p>Tat wereas diverſe ſtrange, and underfull Plots have been couſpired againſt te State, her will ven<g ref="char:EOLhyphen"/>ter every trop of ploud her hath in her pody to find out toſe plotters, and by Cod if her find her, her vill cut her in pieces like cauſe bobby, and make her a preakfaſt to te Crowes.</p>
+            <p>Tat her toe proteſt her love to her King from her hart, and vill kill all toſe, tat are enemies to his Majeſty, yet her is viſe enough to make no Pro<g ref="char:EOLhyphen"/>teſtation tereof, and be voted a Traytor. Her vas wit enough ile warrant her.</p>
+            <p>Tat tough her vas love her King, yet her could never apide te malignant party. Put py Saint <hi>Taffey</hi> her could never know, wat tis malignant party vas: her tink it is a Welch Engliſh prayſe, for her could never underſtand it in her life. Put becauſe every pody ſpeak of te malignant party, her muſt ſpeak too for company ſake ſometing, terfore her wiſh, tat all factious Round-heads, and te malignant party were hanged both togeter on a Welch Gibbot, tat her King may be troubled no longer with tem; oterwiſe her vill take ſome ſpeedy courſe with tem both.</p>
+            <p>Her is reſolved to tickle to Iriſh Rogues, and if her continue in Repellion, till her run home and fet her Pill, and her Welch hooke, her vill make all her pones in her pody to quake, like a quotidi<g ref="char:EOLhyphen"/>an Ague, and if her toe not gape to her for mercy as wide as a Pillinf<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate Oyſter-wifes mouth, by Cot her vlll ſquize te Rebellious Rogues to ſome purpoſe, unleſſe tey fly like <hi>Finches,</hi> and run away
+<pb n="3" facs="tcp:64626:3"/>like a Young <hi>Suckling,</hi> py Cod her will follow her with a huntret Horſe: and if her leave any good Actions behind tem (wich I am confident vill be very few) ten her vill ſend tem to te Red-Pull, and te Fortune, pecauſe tey want good Acti<g ref="char:EOLhyphen"/>on. Tat her will fortifie her ſelfe againſt te long-feared Inſurrection in Monmouth, for tere <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re a multitude of Papiſts in tat Shire, and if her fetch her Pill, and her Welch Hooke, and her two edged pack-ſword, her vill carbon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>toe te Rogues if tey repel: and tey ſhall never pe permitted by any kanown toleration to kill ſo many of her Countrymen by the halfe, as were killed lately in Saint <hi>Shorges</hi> Fields of Horſe and Kine, py the malignant party: For peing Horſe, I conceive tem to pe te malignant party; put if tey hat pin Aſſes, he ſhoult have ſworne ten tey had beene Round-heads.</p>
+            <p>Tat her is Reſolved to have te Book of Com<g ref="char:EOLhyphen"/>mon Prayer in referent ant pious obſervation, and tough ſome turpulent Sceſmaticall and Amſter<g ref="char:EOLhyphen"/>damean-pated Coxcombes toe call it Pottage, py her conſent, toſe tat vill eat no Pottage, ſhall eate no meate, woſe ſtomacks are ſo contentious.</p>
+            <p>Tat her was in preparation a long time, and is now fully reſolved to rayſe an Army againſt her terrible enemy Little-eyes, one of the malignant party, who is a creater eye-ſore unto her, ten Cheapſide-Croſſe is to te Round-heads, who doth not only conſume her Cornes, and te Fruits,
+<pb n="4" facs="tcp:64626:4"/>but alſo devoureth her Cauſe-bobby, and toſted Sheeſe, wich makes her Welch plood riſe hot and violent againſt tem: her has terfore fortified her Garriſon againſt her Little-eyed Enemy: and her calenged her enemy once pefore into te open Field; put as ſoon as te Alarum ſounded, her ene<g ref="char:EOLhyphen"/>my like a very cowart ran away: put now her has taken more deliperate conſultaſhons apout her, and has callet a learned Councell of War; and it was conclutet on, Tat her ſhall encompaſſe her enemy rount, and by Cod her will not leave Lit<g ref="char:EOLhyphen"/>tle-eyes alive, if her can overcome her by ſtrength, or catch her by Policy, wereof her has very much: and let her enemy run, her can run after her, ile warrant her.</p>
+            <p>Her is Reſolvet to make Warre alſo againſt her oter Enemy Robbin-Runhole, who eat up and root out all her Onions and Leekes, ant ſpoile her Mountaines.</p>
+            <p>Finally, her has mate an apſolute Reſolution to levy War againſt <hi>Tom Pack-piter,</hi> a little nim<g ref="char:EOLhyphen"/>ble Shentleman with a plack pag, a pox on her for a plout-tirſty Tyrant, one of the malignant par<g ref="char:EOLhyphen"/>ty, and a creat enemy to te State of te Poty, her cannot ſleep for tis Rogue pincheth, and ſtin<g ref="char:EOLhyphen"/>geth ſo terribly, her can neither walk or ſit peace<g ref="char:EOLhyphen"/>ably, her puniſheth her pack ſo intollerably, ſo tat her cannot be at quiet, poth Night and Day, this <hi>Tom Pack-piter</hi> toth ſo torment her: her is terefore intentet to pring all te Ammunition
+<pb n="5" facs="tcp:64626:4"/>of Armes againſt her Enemy, put her know her to be a cowar<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, for her alwares comes behind her, and tare not come before her face; yet ſometimes te Rogue ſhowes her baſe condiſhon, for her can no ſooner turne her pack, but nimble <hi>Tom</hi> vill apuſe her before her face: her is terfore reſolved to curbe in her inſolencies, and if her can catch her, by Cod her vill preake her neck downe from te top of a Mountain.</p>
+            <p>Teſe are her Countrymens Reſolutions, which being very famous and commendable, her have tought recuſite and neceſſary to declare unto te hole Urld: and withall her has tought is as perti<g ref="char:EOLhyphen"/>nent to make kanowne, wat her is Reſolved, wat not to be, and wat not to do, as to reſolve, wat to be and wat to doe.</p>
+            <p>Firſt, her is reſolved to pe no Deputy, for her love to keep her Necke on her ſhoulders petter then ſo.</p>
+            <p>
+               <hi>Item,</hi> Tat her ville be no Piſhop, for feare her ſould be lent to te Tower tirteen togeter, like a Pakers tozen.</p>
+            <p>
+               <hi>Item,</hi> Her vill be no Judge, for her kanowes tat ten her ſhould hang all Prowniſts, and ſo conſequently be a Delinquent, put her has wit enough to keep out of te Tower, Loy ye tere now.</p>
+            <p>
+               <hi>Item,</hi> Her vill pe no Papiſt, pecauſe her vould not be called te malignant party, or ſuppoſed to pe an Iriſh Repel, or imagined to be a contriver
+<pb facs="tcp:64626:5"/>te deſtructive demoliſhon of te State, or an ene<g ref="char:EOLhyphen"/>my to te Parliament.</p>
+            <p>Laſtly, her vould pe no Round-head, pecauſe her vould love her King, and vould not pe (like tem) Enemies to God and te Urld, put lovers of te Fleſh, and te Devill, who is newly turn'd Roundhead, with wom her toe leave all toſe facti<g ref="char:EOLhyphen"/>ous Pretten.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
